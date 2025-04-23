@@ -30,6 +30,6 @@ Here are a few projects I've worked on:
 ## Get in Touch
 
 - **Email:** [senne.timbreur@gmail.com](mailto:senne.timbreur@gmail.com)
-- **LinkedIn:** [Senne Timbreur](https://www.linkedin.com/in/alexander-callebaut/)
+- **LinkedIn:** [Senne Timbreur](https://www.linkedin.com/in/senne-timbreur/)
 
 Thanks for stopping by!
