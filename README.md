@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for creating innovative solutions and improving existing ones. My journey in the tech world has been driven by curiosity and a constant desire to learn and grow, this journey began at a very young age by self-study. I enjoy working on projects to build something meaningful.
+I am a passionate software developer with a penchant for creating innovative solutions and improving existing ones. My journey in the tech world has been driven by curiosity and a constant desire to learn and grow. I enjoy working on projects to build something meaningful. I am currently still studying Applied Computer Science at HoGent, but I am looking forward to getting a taste of real work life!
 
 ## Skills
 
